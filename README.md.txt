@@ -10,3 +10,5 @@
 1. הורד את ה-Repository למחשב באמצעות `git clone`.  
 2. פתח את הקובץ `analysis.R` כדי להריץ את הניתוח.  
 3. עקוב אחר ההוראות בקובץ `README.md` להפקת תוצאות.  
+
+(figure1.jpg)[original stroop figure]
