@@ -1,6 +1,11 @@
 # Introduction to R Assignment 7
 # Stav Lipitz #id 305644676
 
+#### written by Stav Lipitz 21.12.24
+### Part 1 - code binds together collected data files and arranges them
+### Part 2 - ommitts irrelevant trials from the data and calculates ommitions rate
+### Part 3 - generates descriptive stats from data
+
 #### Part 1 raw data creation ----
 ### open libraries
 library(tidyverse)
